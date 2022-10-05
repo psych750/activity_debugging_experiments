@@ -1,9 +1,5 @@
 import random
-import itertools
-import random
-import sys
 from psychopy import visual, core, event
-
 
 
 categories = {'Happy'='F', 'Angry'='W', 'Sad'='T'}
